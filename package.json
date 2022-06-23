@@ -1,0 +1,16 @@
+{
+  "name": "cypress-linkedin",
+  "version": "1.0.0",
+  "description": "testing cypress with linkedin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/cypress open"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
